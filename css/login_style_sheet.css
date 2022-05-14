@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(215, 214, 214);
+    background-image: url(Safari.jpg);
+    background-repeat: no-repeat;
+    /* background-position: top,bottom; */
+    /* background-attachment: fixed; */
+    background-size: 1520px 758px;
+    /* margin: 0; */
+    /* position: relative; */
+    
+}
+form{
+    background-color: rgba(0,0,0,0.4);
+    /* background-color: aquamarine; */
+    border: 1px solid;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 40px;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    margin-top: 80px;
+    color: white;
+}
+.Email{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-color: white;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.password{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-color: white;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.loginbutton{
+    width: 105px;
+    height: 35px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 8px;
+    border: 0px solid;
+    background: linear-gradient(120deg,rgb(55, 13, 115),rgb(141, 3, 109));
+    color: white;
+}
+.loginbutton:hover{
+    background: linear-gradient(120deg,rgb(141, 3, 109),rgb(55, 13, 115));
+}
+p{
+    color: white;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* p span{
+    color: red;
+} */
+p span a{
+    text-decoration: none;
+    color: red;
+}
+.facebook{
+    height: 30px;
+    width: 100px;
+    background-color: darkblue;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.google{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(255, 34, 34);
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.fa-lock{
+    color: white;
+}
+.fa-user{
+    color: white;
+}
+.Forget_text:hover{
+    color: rgb(27, 27, 110);
+}
+span:hover{
+    color: rgb(27, 27, 110);
+}
